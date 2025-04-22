@@ -2,6 +2,20 @@
 
 Just a simple cli notes manager
 
+## Build
+
+### Linux
+
+```bash
+go build -o ysn main.go
+```
+
+### Windows
+
+```
+go build -o ysn.exe main.go
+```
+
 ## Usage
 
 - `ysn` - Lists your most recently edited notes for quick access
