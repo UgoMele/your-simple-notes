@@ -4,16 +4,8 @@ Just a simple cli notes manager
 
 ## Build
 
-### Linux
-
 ```bash
-go build -o ysn main.go
-```
-
-### Windows
-
-```
-go build -o ysn.exe main.go
+go build -o output-file-name main.go
 ```
 
 ## Usage
